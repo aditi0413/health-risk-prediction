@@ -132,7 +132,7 @@ Model outputs:
 ---
 
 ## 📌 10. Author  
-**Aditi Jha (23BHI10121)**  
+**Aditi (23BHI10121)**  
 B.Tech – CSE (Healthcare Informatics)  
 VIT Bhopal University  
 
